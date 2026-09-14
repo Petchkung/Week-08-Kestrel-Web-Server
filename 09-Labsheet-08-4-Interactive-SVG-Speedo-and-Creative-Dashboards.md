@@ -657,7 +657,7 @@ setInterval(pollTelemetry, 150);
    - หน้าจอคอมพิวเตอร์ที่เข็มไมล์ Speedometer / VU Meter กวาดตามมืออย่างชัดเจน
    <img width="1392" height="875" alt="image" src="https://github.com/user-attachments/assets/62419f54-5e8a-47cf-9cde-411397c4e2e7" />
 
-https://youtube.com/shorts/271KwjDq46U?si=XC2aqoE-UOTf8oJd
+**วิดีโอคลิปสั้น** https://youtube.com/shorts/271KwjDq46U?si=XC2aqoE-UOTf8oJd
    
 2. แนบภาพหน้าจอซอร์สโค้ดและรายงานการทดลอง
 <img width="1120" height="680" alt="image" src="https://github.com/user-attachments/assets/8efcacba-1766-44c9-a6c1-c687685215e8" />
